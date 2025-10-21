@@ -1,0 +1,110 @@
+# ========================================
+# SOURCE CODE EXCLUSION (CLOSED-SOURCE)
+# ========================================
+# Exclude ALL Go source files
+*.go
+
+# Exclude source directories
+/cmd/
+/internal/
+/pkg/
+
+# ========================================
+# BINARIES AND BUILD ARTIFACTS
+# ========================================
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+nebu
+nebu-*
+!build/nebu-*
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+
+# Build output directory
+build/
+dist/
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# Test data and scan results
+test_results/
+scan_results/
+full_scan*.log
+
+# AWS credentials (just in case)
+.aws/
+credentials
+config
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Telemetry data (local only)
+.nebu/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+# Compiled Object files
+*.o
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Coverage files
+coverage.txt
+coverage.html
+*.cover
+
+# Go mod cache
+go.sum.bak
+
+# Build artifacts
+*.zip
+*.tar.gz
+*.tgz
