@@ -69,6 +69,6 @@ Include in your report:
 
 ## Contact
 
-- Security Issues: security@thenebu.com
-- General Support: support@thenebu.com
+- Security Issues: dev@thenebu.com
+- General Support: dev@thenebu.com
 - Website: https://thenebu.com
