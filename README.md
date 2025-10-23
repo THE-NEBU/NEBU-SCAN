@@ -446,7 +446,7 @@ You get:
 ## Support
 
 Need help? Reach out:
-- Email: support@thenebu.com
+- Email: dev@thenebu.com
 - Website: https://thenebu.com
 - GitHub Issues: https://github.com/THE-NEBU/NEBU-SCAN/issues
 
