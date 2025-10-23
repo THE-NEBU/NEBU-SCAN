@@ -1,4 +1,8 @@
 # NEBU SCAN
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/THE-NEBU/NEBU-SCAN)](https://github.com/THE-NEBU/NEBU-SCAN/releases)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/THE-NEBU/NEBU-SCAN)](https://go.dev/)
+[![GitHub license](https://img.shields.io/github/license/THE-NEBU/NEBU-SCAN)](LICENSE)
+
 
 A powerful CLI tool for auditing AWS cloud infrastructure. Find cost savings, security issues, and optimization opportunities across your entire AWS account.
 
